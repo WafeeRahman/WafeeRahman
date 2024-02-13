@@ -2,7 +2,7 @@
 
 [Email](mailto:wafee.rahman842@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wafee-rahman-772108270/)
 
-I was introduced to coding in the tenth grade, with the Turing programming language. In 11th grade I learned python, and in 12th grade I learned OOP in Java. Now, I'm working towards my bachelor's degree and further developing my skills.
+I was introduced to coding in the tenth grade, with the Turing programming language. In 11th grade, I learned python, learned OOP in Java the year after. Now, I'm working towards my bachelor's degree and further developing my skills.
 
 ---
 
@@ -13,13 +13,8 @@ Bachelor of Science in Computer Science (Co-op)
 *September 2022 - April 2026 (Expected)*  
 GPA: 4.04/4.33  
 
-Relevant Courses:
-- Computer Science 1-2 (Python and Java)
-- Computer Organization 1-2 (Combinational and Sequential Circuit Design / Instruction Set Architectures ) 
-- Data Structures and Algorithms 
-- Operating Systems
-- Intro to Software Engineering (Software Development Life Cycles and Methodologies) 
-- Web Systems Development (Exposure to Development with Perl, CGI, PHP, Apache)
+Relevant Courses: Computer Science 1-2 (Python and Java), Computer Organization 1-2 (Combinational and Sequential Circuit Design / Instruction Set Architectures ) 
+- Data Structures and Algorithms, Operating Systems, Intro to Software Engineering, Web Systems Development 
 
 ## Projects I've Worked On.. 
 
@@ -36,12 +31,6 @@ Relevant Courses:
 - **Technologies Used:** React, MySQL, Express, Node, Axios
   - HalalFoods is a full-stack application with ReactJS that recommends Halal recipes to users
   - Also allows users to save their recipes
-
-### AI Personality Discord Bot (METHacks 2023 Entry)
-- **Description:** Built a Discord bot using Python, Disnake, and the Cohere API, allowing users to train AI users.
-- **Technologies Used:** Python, Disnake API, Cohere API
-  - Uses the Python, Disnake, and the Cohere API to allow users on Discord to train AI users based 3 distinct personalities built from datasets of vocabulary
-  - Presented the minimum viable product functionalities at Methacks 2023
 
 ## Technical Skills
 
