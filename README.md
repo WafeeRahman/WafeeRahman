@@ -45,8 +45,24 @@ Relevant Courses:
 
 ## Technical Skills
 
-- **Programming Languages:** Java, Python, JavaScript, C, Lisp
-- **Technologies:** HTML, CSS, Bootstrap, Node.js, REST, Express.js, Bash, Linux, MongoDB, React.js, MySQL
+- **Programming Languages:** 
+  - Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  - Python ![Python](https://img.icons8.com/color/48/000000/python.png)
+  - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  - C ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+  - Lisp
+
+- **Technologies:** 
+  - HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+  - CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  - Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+  - Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+  - REST 
+  - Bash 
+  - Linux ![Linux](https://img.icons8.com/color/48/000000/linux.png)
+  - MongoDB ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+  - React.js ![React.js](https://img.icons8.com/plasticine/48/000000/react.png)
+  - MySQL ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png)
 
 ## Certifications
 
