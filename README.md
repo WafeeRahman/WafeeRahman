@@ -1,6 +1,8 @@
-# Wafee Rahman
+# Hi, I'm Wafee Rahman
 
-[Email](mailto:wafee.rahman842@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wafeer/) | [GitHub](https://github.com/wafee842)
+[Email](mailto:wafee.rahman842@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wafee-rahman-772108270/)
+
+I was introduced to coding in the tenth grade, with the Turing programming language. In 11th grade I learned python, and in 12th grade I learned OOP in Java. Now, I'm working towards my bachelor's degree and further developing my skills.
 
 ---
 
@@ -13,40 +15,45 @@ GPA: 4.04/4.33
 
 Relevant Courses:
 - Computer Science 1-2 (Python and Java)
-- Computer Organization 1-2
-- Data Structures and Algorithms
+- Computer Organization 1-2 (Combinational and Sequential Circuit Design / Instruction Set Architectures ) 
+- Data Structures and Algorithms 
 - Operating Systems
-- Intro to Software Engineering
-- Web Systems Development
+- Intro to Software Engineering (Software Development Life Cycles and Methodologies) 
+- Web Systems Development (Exposure to Development with Perl, CGI, PHP, Apache)
 
-## Projects
+## Projects I've Worked On.. 
 
 ### Hang! - Fullstack Application
 - **Description:** Created a Full Stack Web Application that allows users to post and review places around the city of Toronto.
 - **Technologies Used:** Node, Express, MongoDB, CSS, EJS, Cloudinary, Mapbox API
 - **Key Features:**
-  - Handled post data and CRUD functionalities with a MongoDB database
-  - Implemented secure user authorization and authentication using PassportJS, Helmet, and Express-Session
-  - Developed front-end interface with mapping and image-upload capabilities
+  - Hang! is a Full Stack Web Application that allows users to post and review places around the city of Toronto
+  - Includes secure user authorization and authentication using PassportJS, Helmet, and Express-Session
+  - Also includes front-end interface with mapping and image-upload capabilities with the Mapbox and Cloudinary API
 
 ### HalalFoods - Web Application
 - **Description:** Developed a full-stack application with ReactJS that recommends Halal recipes to users.
 - **Technologies Used:** React, MySQL, Express, Node, Axios
-- **Key Features:**
-  - Integrated the Edamam Recipe API to query recipes following halal guidelines
-  - Implemented user authorization, authentication, and saved recipes with a MySQL database
+  - HalalFoods is a full-stack application with ReactJS that recommends Halal recipes to users
+  - Also allows users to save their recipes
 
-### AI Personality Discord Bot
+### AI Personality Discord Bot (METHacks 2023 Entry)
 - **Description:** Built a Discord bot using Python, Disnake, and the Cohere API, allowing users to train AI users.
 - **Technologies Used:** Python, Disnake API, Cohere API
-- **Key Features:**
-  - Implemented functionality to create and chat with user models using a prompt system
+  - Uses the Python, Disnake, and the Cohere API to allow users on Discord to train AI users based 3 distinct personalities built from datasets of vocabulary
   - Presented the minimum viable product functionalities at Methacks 2023
 
 ## Technical Skills
 
 - **Programming Languages:** Java, Python, JavaScript, C, Lisp
 - **Technologies:** HTML, CSS, Bootstrap, Node.js, REST, Express.js, Bash, Linux, MongoDB, React.js, MySQL
+
+## Certifications
+
+**Udemy Fullstack Web Development 2023 Course Certification**
+- **Description:** Completed a comprehensive Fullstack Web Development course covering HTML, CSS, MongoDB, JavaScript, Async JavaScript, and React.
+- **Issued By:** Udemy
+- **Date:** Summer 2023
 
 ---
 
