@@ -13,8 +13,15 @@ Bachelor of Science in Computer Science (Co-op)
 *September 2022 - April 2026 (Expected)*  
 GPA: 4.04/4.33  
 
-Relevant Courses: Computer Science 1-2 (Python and Java), Computer Organization 1-2 (Combinational and Sequential Circuit Design / Instruction Set Architectures ) 
+Relevant Courses: 
+- Computer Science 1-2 (Python and Java), Computer Organization 1-2 (Combinational and Sequential Circuit Design / Instruction Set Architectures ) 
 - Data Structures and Algorithms, Operating Systems, Intro to Software Engineering, Web Systems Development 
+
+## Technical Skills
+
+- **Programming Languages:** Java, Python, JavaScript, C, Lisp
+- **Technologies:** HTML, CSS, Bootstrap, Node.js, REST, Express.js, Bash, Linux, MongoDB, React.js, MySQL
+
 
 ## Projects I've Worked On.. 
 
@@ -31,11 +38,6 @@ Relevant Courses: Computer Science 1-2 (Python and Java), Computer Organization 
 - **Technologies Used:** React, MySQL, Express, Node, Axios
   - HalalFoods is a full-stack application with ReactJS that recommends Halal recipes to users
   - Also allows users to save their recipes
-
-## Technical Skills
-
-- **Programming Languages:** Java, Python, JavaScript, C, Lisp
-- **Technologies:** HTML, CSS, Bootstrap, Node.js, REST, Express.js, Bash, Linux, MongoDB, React.js, MySQL
 
 ## Certifications
 
