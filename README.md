@@ -15,7 +15,9 @@ GPA: 4.04/4.33
 
 Relevant Courses: 
 - Computer Science 1-2 (Python and Java), Computer Organization 1-2 (Combinational and Sequential Circuit Design / Instruction Set Architectures) 
-- Data Structures and Algorithms, Operating Systems, Intro to Software Engineering, Web Systems Development 
+- Data Structures and Algorithms
+- Operating Systems, Intro to Software Engineering,
+- Web Systems Development (Perl, Ruby, CGI, Apache) 
 
 ## Technical Skills
 
