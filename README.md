@@ -22,6 +22,7 @@ Relevant Courses:
 
 ## Technical Skills
 
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 - **Programming Languages:** Java, Python, JavaScript, C, Lisp
 - **Technologies:** HTML, CSS, Bootstrap, Node.js, REST, Express.js, Bash, Linux, MongoDB, React.js, MySQL
 
