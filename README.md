@@ -2,7 +2,7 @@
 
 [Email](mailto:wafee.rahman842@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wafee-rahman-772108270/)
 
-I started coding in tenth grade with the Turing programming language. Since then, I've learned Python, Java, and more. Currently pursuing my bachelor's in Computer Science.
+I started coding in tenth grade with the Turing programming language. I'm currently pursuing my bachelor's in Computer Science and am currently entering my third year of studies at Toronto Metropolitan University.
 
 ---
 
