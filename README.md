@@ -46,7 +46,7 @@ Relevant Courses:
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-## Projects
+## Recent Projects I've Worked On...
 
 ### Hang! - Fullstack Application
 - **Description:** A Full Stack Web App for posting and reviewing places in Toronto.
