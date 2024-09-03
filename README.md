@@ -48,9 +48,9 @@ Relevant Courses:
 
 ## Recent Projects I've Worked On...
 
-### Hang! - Fullstack Application
-- **Description:** A Full Stack Web App for posting and reviewing places in Toronto.
-- **Tech:** Node, Express, MongoDB, CSS, EJS, Cloudinary, Mapbox API
+### Explore Toronto - Fullstack Application
+- **Description:** A Full Stack Web App for posting and reviewing tourist locations in Toronto.
+- **Tech:** MongoDB, Express, Node, React CSS, EJS, Cloudinary, Mapbox API
 
 ### HalalFoods - Web Application
 - **Description:** A full-stack app recommending Halal recipes.
