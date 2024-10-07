@@ -52,9 +52,11 @@ Relevant Courses:
 - **Description:** A Full Stack Web App for posting and reviewing tourist locations in Toronto.
 - **Tech:** MongoDB, Express, Node, React CSS, EJS, Cloudinary, Mapbox API
 
-### HalalFoods - Web Application
-- **Description:** A full-stack app recommending Halal recipes.
-- **Tech:** React, MySQL, Express, Node, Axios
+### ClipShare Library - Cloud Fullstack Web Application
+- **Description:** A full-stack app that allows users to view and upload short videos through cloud video processing services.
+- **Tech:** React, Firebase, NextJS, TypeScript, Docker, Google Cloud Platform
+
+Feel free to check out my other previous works such as HalalFoods or Hang, the predecessor to ExploreToronto, aswell!
 
 ## Certifications
 
