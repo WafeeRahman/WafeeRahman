@@ -8,7 +8,7 @@ I'm a third-year Computer Science student at Toronto Metropolitan University wit
 
 Right now, I'm an Intern at TD Insurance working in the Digitization, Automation, and Workflow team. I offer my technical background to help support project delivery and management of automation releases. I also have experience in delivering effective automations that help save time in our workflows, as well as conducting root cause analysis on backend defects in Guidewire PCBC. I'm also an incoming software engineer intern at TD Securities, where I hope to gain adept skills in backend software development in a technical environment. 
 
-Looking ahead, I’m eager to expand my skills in machine learning and computer vision. My next projects will likely explore these fields, potentially integrating full-stack aspects to stay sharp while still looking to learn new frameworks like Spring Boot. My latest project, ClipShare, marks the culmination of my recent focus on full-stack development, setting the stage for this next chapter in my learning journey.
+Looking ahead, I’m eager to expand my skills in machine learning and computer vision. My next projects will likely explore these fields, potentially integrating full-stack aspects to stay sharp while still looking to learn new frameworks like Spring Boot. My latest project, ClipShare, marks the culmination of my recent focus on full-stack development for now. 
 
 ---
 
