@@ -59,7 +59,7 @@ Relevant Courses:
 - **Tech:** MongoDB, Express, Node, React CSS, EJS, Cloudinary, Mapbox API
 
 ### ClipShare Library - Cloud Fullstack Web Application
-- **Description:** A full-stack app that allows users to view and upload short videos through cloud video processing services. I created it to help me archive gaming clips and other memories onto the cloud, while being able to view them in an entertaining format, somewhat like youtube or tiktok. 
+- **Description:** A full-stack app that allows users to view and upload short videos through cloud video processing services. I created it to help me and my friends archive gaming clips and other memories onto the cloud, while being able to view them in an entertaining format, somewhat like youtube or tiktok. 
 - **Tech:** React, Firebase, NextJS, TypeScript, Docker, Google Cloud Platform
 
 Feel free to check out my other previous works such as HalalFoods or Hang, the predecessor to ExploreToronto, aswell!
