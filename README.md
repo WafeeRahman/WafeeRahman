@@ -54,6 +54,11 @@ Relevant Courses:
 
 ## Recent Projects I've Worked On...
 
+### Weatherly - Toronto Weather Machine Learning Application
+- **Description:** A full‑stack web application that predicts Toronto’s average temperature for the next 7, 14, 30 days (and any calendar day) using LSTM models and generates natural‑language forecast explanations with an integrated LLM. I created it to get familliar with machine learning, aswell as gain familiarity in using Spring Boot and AWS. 
+- **Tech**: TensorFlow + Keras, Python, Spring Boot (Java 17), React + Vite, Tailwind CSS & MUI, OpenAI API, AWS EC2 (Ubuntu)
+
+
 ### Explore Toronto - Fullstack Application
 - **Description:** A Full Stack Web App for posting and reviewing tourist locations in Toronto. I created it to help me keep track of nice places and restaurants I've been to in Toronto, giving them a score and comments. The site has multi-user and multi-post support, similar to sites like instagram, or yelp. 
 - **Tech:** MongoDB, Express, Node, React CSS, EJS, Cloudinary, Mapbox API
