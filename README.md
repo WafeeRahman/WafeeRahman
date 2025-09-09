@@ -6,8 +6,6 @@ Welcome to my github page, which is filling in for my portfolio website for now.
 
 I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. Outside of coursework, I actively work on diverse projects that enhance my technical skills and solve some of my first-world problems, helping me gain exposure to various techstacks. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 150 to help hone my skills in DSA.
 
-Right now, I'm an Intern at TD Insurance working in the Digitization, Automation, and Workflow team. I offer my technical background to help support project delivery and management of automation releases. I also have experience in delivering effective automations that help save time in our workflows, as well as conducting root cause analysis on backend defects in Guidewire PCBC. I'm also an incoming software engineer intern at TD Securities, where I hope to gain adept skills in backend software development in a technical environment. 
-
 Looking ahead, I’m eager to expand my skills in machine learning and computer vision. My next projects will likely explore these fields, potentially integrating full-stack aspects to stay sharp while still looking to learn new frameworks like Spring Boot. My latest project, ClipShare, marks the culmination of my recent focus on full-stack development for now. 
 
 ---
