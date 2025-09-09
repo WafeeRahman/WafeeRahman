@@ -4,9 +4,9 @@
 
 Welcome to my github page, which is filling in for my portfolio website for now.
 
-I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. Outside of coursework, I actively work on diverse projects that enhance my technical skills and solve some of my first-world problems, helping me gain exposure to various techstacks. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 150 to help hone my skills in DSA.
+I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. This past year, I did 12 months of internship at TD, where I was helping automate processes in TD Insurance and automating data analytics process more recently at TD securities. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 150 to help hone my skills in DSA.
 
-Looking ahead, I’m eager to expand my skills in machine learning and computer vision. My next projects will likely explore these fields, potentially integrating full-stack aspects to stay sharp while still looking to learn new frameworks like Spring Boot. My latest project, ClipShare, marks the culmination of my recent focus on full-stack development for now. 
+As you can see here, I'm big on fullstack development, with a recent interest in machine learning aswell with my Weatherly project being the start of exploring building machine learning models. Currently, I'm looking to explore more in machine learning aswell as computer vision, with an Agentic AI project on the way. 
 
 ---
 
@@ -55,8 +55,7 @@ Relevant Courses:
 ### Weatherly - Toronto Weather Machine Learning Application
 - **Description:** A full‑stack web application that predicts Toronto’s average temperature for the next 7, 14, 30 days (and any calendar day) using LSTM models and generates natural‑language forecast explanations with an integrated LLM. I created it to get familliar with machine learning, aswell as gain familiarity in using Spring Boot and AWS. 
 - **Tech**: TensorFlow + Keras, Python, Spring Boot (Java 17), React + Vite, Tailwind CSS & MUI, OpenAI API, AWS EC2 (Ubuntu)
-
-
+  
 ### Explore Toronto - Fullstack Application
 - **Description:** A Full Stack Web App for posting and reviewing tourist locations in Toronto. I created it to help me keep track of nice places and restaurants I've been to in Toronto, giving them a score and comments. The site has multi-user and multi-post support, similar to sites like instagram, or yelp. 
 - **Tech:** MongoDB, Express, Node, React CSS, EJS, Cloudinary, Mapbox API
