@@ -2,7 +2,7 @@
 
 [Email](mailto:wafee.rahman842@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wafee-rahman-772108270/)
 
-I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. This past year, I did 12 months of internship at TD, where I was helping automate processes in TD Insurance and automating data analytics processes more recently at TD securities. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 250 to help hone my skills in DSA. Currently, I'm working on the next Call of Duty game at Activision Blizzard, so I won't be as active as I once was on github.
+I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 250 to help hone my skills in DSA. Currently, I'm working on the next Call of Duty game at Activision Blizzard, so I won't be as active as I once was on github.
 
 [Wafee.net](https://www.wafee.net/)
 ---
