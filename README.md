@@ -2,12 +2,9 @@
 
 [Email](mailto:wafee.rahman842@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wafee-rahman-772108270/)
 
-Welcome to my github page, which is filling in for my portfolio website for now.
+I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. This past year, I did 12 months of internship at TD, where I was helping automate processes in TD Insurance and automating data analytics processes more recently at TD securities. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 250 to help hone my skills in DSA. Currently, I'm working on the next Call of Duty game at Activision Blizzard, so I won't be as active as I once was on github.
 
-I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. This past year, I did 12 months of internship at TD, where I was helping automate processes in TD Insurance and automating data analytics processes more recently at TD securities. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 150 to help hone my skills in DSA. Currently, I'm working on the next Call of Duty game at Activision Blizzard, so I won't be as active as I once was on github.
-
-As you can see here, I'm big on fullstack development, with a recent interest in machine learning aswell with my Weatherly project being the start of exploring building machine learning models. Currently, I'm looking to explore more in machine learning aswell as computer vision, with an Agentic AI project on the way. 
-
+[Wafee.net](https://www.wafee.net/)
 ---
 
 ## Education
@@ -22,7 +19,9 @@ Relevant Courses:
 - Computer Organization 1-2 (Combinational and Sequential Circuit Design / Instruction Set Architectures) 
 - Data Structures and Algorithms
 - Operating Systems, Intro to Software Engineering
-- Web Systems Development (Perl, Ruby, CGI, Apache) 
+- Web Systems Development (Perl, Ruby, CGI, Apache)
+- Artificial Intelligence
+- Database Management Systems
 
 ## Technical Skills
 
@@ -36,7 +35,6 @@ Relevant Courses:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![BootstrapCSS](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
     
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,7 +48,7 @@ Relevant Courses:
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-## Recent Projects I've Worked On...
+## Projects I've Worked On...
 
 ### Weatherly - Toronto Weather Machine Learning Application
 - **Description:** A full‑stack web application that predicts Toronto’s average temperature for the next 7, 14, 30 days (and any calendar day) using LSTM models and generates natural‑language forecast explanations with an integrated LLM. I created it to get familliar with machine learning, aswell as gain familiarity in using Spring Boot and AWS. 
@@ -64,15 +62,6 @@ Relevant Courses:
 - **Description:** A full-stack app that allows users to view and upload short videos through cloud video processing services. I created it to help me and my friends archive gaming clips and other memories onto the cloud, while being able to view them in an entertaining format, somewhat like youtube or tiktok. 
 - **Tech:** React, Firebase, NextJS, TypeScript, Docker, Google Cloud Platform
 
-Feel free to check out my other previous works such as HalalFoods or Hang, the predecessor to ExploreToronto, aswell!
-
-## Certifications
-
-**Udemy Fullstack Web Development 2023 Course**
-- **Description:** Comprehensive course covering HTML, CSS, MongoDB, JavaScript, Async JS, and React.
-- **Issued By:** Udemy
-- **Date:** Summer 2023
-
 ---
 
-Feel free to [email](mailto:wafee.rahman842@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/wafeerahman/). Check out my work on [GitHub](https://github.com/WafeeRahman). Thank you! 🚀
+Feel free to [email](mailto:wafee.rahman842@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/wafeerahman/).
