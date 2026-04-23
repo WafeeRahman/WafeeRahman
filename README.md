@@ -10,12 +10,10 @@ I'm a third-year Computer Science student at Toronto Metropolitan University wit
 ## Education
 
 **Toronto Metropolitan University (Ryerson University)**  
-Bachelor of Science in Computer Science (Co-op)  
-*September 2022 - April 2027 (Expected)*  
-GPA: 4.04/4.33  
+Bachelor of Science in Computer Science (Co-op)  *September 2022 - May 2028 (Expected)*   GPA: 4.04/4.33  
 
-Relevant Courses: 
-- Computer Science 1-2 (Python and Java), Computer Organization 1-2 (Combinational and Sequential Circuit Design / Instruction Set Architectures), Data Structures and Algorithms, Operating Systems, Intro to Software Engineering, Web Systems Development (Perl, Ruby, CGI, Apache), Artificial Intelligence, Database Management Systems
+Noteworthy Courses: 
+- Computer Science 1-2 (Python and Java), Computer Organization 1-2 (Combinational and Sequential Circuit Design / Instruction Set Architectures), Data Structures and Algorithms, Operating Systems, Web Systems Development (Perl, Ruby, CGI, Apache), Database Management Systems (SQL), Intro to Linux, C, Bash
 
 ## Technical Skills
 
@@ -55,7 +53,7 @@ Relevant Courses:
 
 ## Projects I've Worked On...
 
-Like I mentioned above, I'm still working full-time to deliver features for the next Call of Duty (2026). But I have a few projects in the pipeline that involve CI/CD, Containerization, Agentic AI, and some pet peeves of mine. The projects in this section were more so building stuff while helping me learn core skills. 
+Like I mentioned above, I'm still working full-time to deliver features for the next Call of Duty (2026). But I have a few projects in the pipeline that involve CI/CD, Containerization, Agentic AI, and some pet peeves of mine. The projects in this section were geared towards building things while helping me learn core skills of interest. 
 
 | Projects | Tools | Features |
 |---|---|---|
