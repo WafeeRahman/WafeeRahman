@@ -2,7 +2,7 @@
 
 [Email](mailto:wafee.rahman842@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wafee-rahman-772108270/)
 
-I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 250 to help hone my skills in DSA. Currently, I'm working on the next Call of Duty game at Activision Blizzard, so I won't be as active as I once was on github.
+I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 250 to help hone my skills in DSA. Currently, I'm working on the next Call of Duty game at Activision Blizzard, so I won't be as active as I once was on github. Currently vacationing in Japan! 🏯🌸
 
 [Wafee.net](https://www.wafee.net/)
 ---
@@ -55,17 +55,13 @@ Relevant Courses:
 
 ## Projects I've Worked On...
 
-### Weatherly - Toronto Weather Machine Learning Application
-- **Description:** A full‑stack web application that predicts Toronto’s average temperature for the next 7, 14, 30 days (and any calendar day) using LSTM models and generates natural‑language forecast explanations with an integrated LLM. I created it to get familliar with machine learning, aswell as gain familiarity in using Spring Boot and AWS. 
-- **Tech**: TensorFlow + Keras, Python, Spring Boot (Java 17), React + Vite, Tailwind CSS & MUI, OpenAI API, AWS EC2 (Ubuntu)
-  
-### Explore Toronto - Fullstack Application
-- **Description:** A Full Stack Web App for posting and reviewing tourist locations in Toronto. I created it to help me keep track of nice places and restaurants I've been to in Toronto, giving them a score and comments. The site has multi-user and multi-post support, similar to sites like instagram, or yelp. 
-- **Tech:** MongoDB, Express, Node, React CSS, EJS, Cloudinary, Mapbox API
+Like I mentioned above, I'm still working full-time to deliver features for the next Call of Duty (2026). But I have a few projects in the pipeline that involve CI/CD, Containerization, Agentic AI, and some pet peeves of mine. The projects in this section were more so building stuff while helping me learn core skills. 
 
-### ClipShare Library - Cloud Fullstack Web Application
-- **Description:** A full-stack app that allows users to view and upload short videos through cloud video processing services. I created it to help me and my friends archive gaming clips and other memories onto the cloud, while being able to view them in an entertaining format, somewhat like youtube or tiktok. 
-- **Tech:** React, Firebase, NextJS, TypeScript, Docker, Google Cloud Platform
+| Projects | Tools | Features |
+|---|---|---|
+| [Weatherly](https://github.com/WafeeRahman/Weatherly) | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | <ul><li>Full-stack web application predicting Toronto's average temperature for the next 7, 14, and 30 days using LSTM models.</li><li>Generates natural-language forecast explanations powered by an integrated LLM (OpenAI API).</li><li>Built with a Spring Boot (Java 17) backend and a React + Vite frontend with Tailwind CSS & MUI.</li><li>Deployed on AWS EC2 (Ubuntu) for production-grade cloud hosting.</li></ul> |
+| [Explore Toronto](https://github.com/WafeeRahman/ExploreToronto) | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) | <ul><li>Full-stack web app for posting and reviewing tourist locations and restaurants in Toronto.</li><li>Multi-user and multi-post support similar to Instagram or Yelp, with scoring and comments.</li><li>Integrated Mapbox API for interactive location mapping and Cloudinary for image storage.</li><li>Built with the MERN stack using EJS templating and CSS for styling.</li></ul> |
+| [ClipShare](https://github.com/WafeeRahman/ClipShare) | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | <ul><li>Full-stack cloud application for uploading and viewing short videos, similar to YouTube or TikTok.</li><li>Leverages Google Cloud Platform for scalable cloud video processing and storage.</li><li>Built with React, Next.js, and TypeScript for a modern, type-safe frontend.</li><li>Containerized with Docker and backed by Firebase for authentication and data management.</li></ul> |
 
 ---
 
