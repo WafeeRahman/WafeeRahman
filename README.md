@@ -65,7 +65,7 @@ Like I mentioned above, I'm still working full-time to deliver features for the 
 
 
 📚 Readings
-Core textbooks I've been working through, picking up fundamental concepts along the way.
+I also find it necessary to read up on some textbooks, and have been doing so gradually, picking up core concepts. Some of the textbooks I've read are:
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ Core textbooks I've been working through, picking up fundamental concepts along 
       <sub><code>Networking</code></sub>
     </td>
     <td align="center" width="33%">
-      <img width="189" height="267" alt="image" src="https://github.com/user-attachments/assets/1e756a6a-2c14-4c55-a586-f733f2a0c79c" />
+      <img width="370" height="459" alt="image" src="https://github.com/user-attachments/assets/1e756a6a-2c14-4c55-a586-f733f2a0c79c" />
       <sub><b>Operating Systems: Internals and Design Principles</b></sub><br/>
       <sub>Stallings</sub><br/>
       <sub><code>Systems</code></sub>
