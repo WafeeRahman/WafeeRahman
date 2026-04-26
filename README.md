@@ -70,19 +70,19 @@ Core textbooks I've been working through, picking up fundamental concepts along 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://m.media-amazon.com/images/I/91OkQ9SKxoL._SY300_.jpg" width="140" alt="Computer Networks: A Top-Down Approach" /><br/>
+      <img width="808" height="1000" alt="image" src="https://github.com/user-attachments/assets/13b4ab2c-57da-40f0-bc0b-5660bda46113" />
       <sub><b>Computer Networks: A Top-Down Approach</b></sub><br/>
       <sub>Kurose &amp; Ross</sub><br/>
       <sub><code>Networking</code></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.media-amazon.com/images/I/71K6LSDa2uL._SY300_.jpg" width="140" alt="Operating Systems: Internals and Design Principles" /><br/>
+      <img width="189" height="267" alt="image" src="https://github.com/user-attachments/assets/1e756a6a-2c14-4c55-a586-f733f2a0c79c" />
       <sub><b>Operating Systems: Internals and Design Principles</b></sub><br/>
       <sub>Stallings</sub><br/>
       <sub><code>Systems</code></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.media-amazon.com/images/I/81d9olxVsAL._SY300_.jpg" width="140" alt="Fundamentals of Database Systems" /><br/>
+      <img width="370" height="459" alt="image" src="https://github.com/user-attachments/assets/48193f2a-0abe-4efe-95a0-53e37a8e4172" />
       <sub><b>Fundamentals of Database Systems</b></sub><br/>
       <sub>Elmasri &amp; Navathe</sub><br/>
       <sub><code>Databases</code></sub>
