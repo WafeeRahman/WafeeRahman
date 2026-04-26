@@ -64,7 +64,7 @@ Like I mentioned above, I'm still working full-time to deliver features for the 
 ---
 
 
-📚 Readings
+Readings
 I also find it necessary to read up on some textbooks, and have been doing so gradually, picking up core concepts. Some of the textbooks I've read are:
 
 <table>
