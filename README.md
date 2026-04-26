@@ -63,4 +63,31 @@ Like I mentioned above, I'm still working full-time to deliver features for the 
 
 ---
 
+
+📚 Readings
+Core textbooks I've been working through, picking up fundamental concepts along the way.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://m.media-amazon.com/images/I/91OkQ9SKxoL._SY300_.jpg" width="140" alt="Computer Networks: A Top-Down Approach" /><br/>
+      <sub><b>Computer Networks: A Top-Down Approach</b></sub><br/>
+      <sub>Kurose &amp; Ross</sub><br/>
+      <sub><code>Networking</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://m.media-amazon.com/images/I/71K6LSDa2uL._SY300_.jpg" width="140" alt="Operating Systems: Internals and Design Principles" /><br/>
+      <sub><b>Operating Systems: Internals and Design Principles</b></sub><br/>
+      <sub>Stallings</sub><br/>
+      <sub><code>Systems</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://m.media-amazon.com/images/I/81d9olxVsAL._SY300_.jpg" width="140" alt="Fundamentals of Database Systems" /><br/>
+      <sub><b>Fundamentals of Database Systems</b></sub><br/>
+      <sub>Elmasri &amp; Navathe</sub><br/>
+      <sub><code>Databases</code></sub>
+    </td>
+  </tr>
+</table>
+
 Feel free to [email](mailto:wafee.rahman842@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/wafeerahman/).
