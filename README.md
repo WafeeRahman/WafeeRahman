@@ -4,7 +4,7 @@
 
 I'm a third-year Computer Science student at Toronto Metropolitan University with a strong passion for software development and problem-solving. My coding journey began in high school with the Turing programming language, progressing to Python and Java in subsequent years. When I'm not committing to projects to build skills, I frequently tackle LeetCode problems and commit their solutions to their respective repositiories here, following structured roadmaps such as the Neetcode 250 to help hone my skills in DSA. 
 
-[Wafee.net](https://www.wafee.net/)
+
 ---
 
 ## Education
@@ -57,7 +57,7 @@ Noteworthy Courses:
 
 ## Projects I've Worked On...
 
-Like I mentioned above, I'm still working full-time to deliver features for the next Call of Duty (2026). But I have a few projects in the pipeline that involve CI/CD, Containerization, Agentic AI, and some pet peeves of mine. The projects in this section were geared towards building things while helping me learn core skills of interest. 
+In my off time, I like to work on a few projects that I have in the pipeline that involve CI/CD, Containerization, Agentic AI, and some pet peeves of mine. The projects in this section were geared towards building things while helping me learn core skills of interest. 
 
 | Projects | Tools | Features |
 |---|---|---|
